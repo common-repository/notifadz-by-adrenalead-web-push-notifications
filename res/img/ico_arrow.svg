@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="Groupe_11" data-name="Groupe 11" transform="translate(-497.75 -473.5)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="27" cy="27" r="27" transform="translate(497.75 473.5)" fill="#fff"/>
+    <g id="Icon_feather-arrow-down" data-name="Icon feather-arrow-down" transform="translate(506.5 482.5)">
+      <path id="Tracé_12" data-name="Tracé 12" d="M18,7.5v21" fill="none" stroke="#135de4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Tracé_13" data-name="Tracé 13" d="M28.5,18,18,28.5,7.5,18" fill="none" stroke="#135de4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

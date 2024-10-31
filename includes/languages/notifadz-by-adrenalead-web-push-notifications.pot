@@ -1,0 +1,682 @@
+# Copyright (C) 2024
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/includes\n"
+"POT-Creation-Date: 2024-08-29 09:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/ntdz-fonctionnalites.php:18
+msgid ""
+" It seems that your ads.txt doesn't yet contain these elements (or doesn't "
+"exist), so don't forget to include them!"
+msgstr ""
+
+#: includes/ntdz-template.php:119 includes/ntdz-template.php:172
+msgid ""
+"*Use your media library to add an image and resize it. Then copy its url and "
+"paste it into the field above."
+msgstr ""
+
+#: includes/ntdz-dashboard.php:103
+msgid ""
+"- Adrenalead starts monetizing your subscriber base to generate your first "
+"revenues (you can track the activation of monetization partners from your "
+"Notifadz account)."
+msgstr ""
+
+#: includes/ntdz-dashboard.php:92
+msgid "- Edit or add an ads.txt file at the root of your site."
+msgstr ""
+
+#: includes/ntdz-dashboard.php:101
+msgid ""
+"- From Notifadz, you can track your first collection statistics (Impressions,"
+" Subscription rate, etc.)."
+msgstr ""
+
+#: includes/ntdz-dashboard.php:94
+msgid ""
+"- Install the subscriber collection script before closing the </body> tag on "
+"all your pages."
+msgstr ""
+
+#: includes/ntdz-dashboard.php:90
+msgid "- Integration of a serviceworker.js at the root of your site."
+msgstr ""
+
+#: includes/ntdz-dashboard.php:99
+msgid "- Subscriber collection is active on your site"
+msgstr ""
+
+#: includes/ntdz-template.php:27
+msgid "1.Choose the template format"
+msgstr ""
+
+#: includes/ntdz-template.php:49
+msgid "2.Customize template texts"
+msgstr ""
+
+#: includes/ntdz-template.php:104
+msgid "3.Download a suitable image for your template"
+msgstr ""
+
+#: includes/ntdz-template.php:137
+msgid "4.Customize the mobile template texts"
+msgstr ""
+
+#: includes/ntdz-template.php:157
+msgid "5.Download a logo for the mobile version"
+msgstr ""
+
+#: includes/ntdz-triggers.php:93
+msgid ""
+"<b>XXXXXX</b> should be replaced with a transaction ID or order number or "
+"indicate <b>null</b> if you cannot."
+msgstr ""
+
+#: includes/ntdz-triggers.php:94
+msgid ""
+"<b>€€€</b> is to be replaced by the transaction amount or indicate <b>"
+"null</b> if you cannot."
+msgstr ""
+
+#: includes/ntdz-help.php:12
+msgid ""
+"A template with a default visual will be set up on your site, enabling you "
+"to start collecting subscribers. You can then customize it by logging into "
+"your account directly on notifadz.com"
+msgstr ""
+
+#: includes/ntdz-triggers.php:121
+msgid "Access my campaigns directly from Notifadz"
+msgstr ""
+
+#: includes/ntdz-admin.php:239
+msgid "Access to the affiliate program"
+msgstr ""
+
+#: includes/ntdz-triggers.php:46
+msgid "Activate these 2 scripts"
+msgstr ""
+
+#: includes/ntdz-triggers.php:34
+msgid "Activation of trigger scripts"
+msgstr ""
+
+#: includes/ntdz-admin.php:224
+msgid "Activation triggers"
+msgstr ""
+
+#: includes/ntdz-admin.php:105
+msgid "Address*"
+msgstr ""
+
+#. Author of the plugin
+msgid "Adrenalead"
+msgstr ""
+
+#: includes/ntdz-affiliate.php:16
+msgid "Adrenalead launches its first affiliate program for publishers."
+msgstr ""
+
+#: includes/ntdz-help.php:9
+msgid "Adrenalead Technical Support"
+msgstr ""
+
+#: includes/ntdz-admin.php:232
+msgid "Ads.txt, logout"
+msgstr ""
+
+#: includes/ntdz-fonctionnalites.php:12
+msgid "ADS.TXT:"
+msgstr ""
+
+#: includes/ntdz-admin.php:29
+msgid "Advertiser"
+msgstr ""
+
+#: includes/ntdz-admin.php:237
+msgid "AFFILIATE PROGRAM"
+msgstr ""
+
+#: includes/ntdz-affiliate.php:8
+msgid "Affiliate Program"
+msgstr ""
+
+#: includes/ntdz-admin.php:31
+msgid "Agency"
+msgstr ""
+
+#: includes/ntdz-template.php:86 includes/ntdz-template.php:91
+msgid "Allow notifications to continue."
+msgstr ""
+
+#: includes/ntdz-admin.php:172
+msgid "Already have a Notifadz account?"
+msgstr ""
+
+#: includes/ntdz-affiliate.php:32
+msgid ""
+"And more good news: all publishers who join the affiliate program by the end "
+"of the year 2024 will keep their 10% referred publishers revenue payout rate,"
+" for life!"
+msgstr ""
+
+#: includes/ntdz-triggers.php:53
+msgid ""
+"Automated sending of a welcome notification after the user subscribes to "
+"your notifications"
+msgstr ""
+
+#: includes/ntdz-admin.php:222
+msgid "AUTOMATISATION"
+msgstr ""
+
+#: includes/ntdz-triggers.php:11
+msgid "Automatisation"
+msgstr ""
+
+#: includes/ntdz-admin.php:22
+msgid "Back to login page"
+msgstr ""
+
+#: includes/ntdz-template.php:144 includes/ntdz-template.php:149
+msgid "Be notified of our latest news and exclusive offers in real time"
+msgstr ""
+
+#: includes/ntdz-template.php:57 includes/ntdz-template.php:62
+msgid "Be notified of our news and partner offers in real time"
+msgstr ""
+
+#: includes/ntdz-affiliate.php:13
+msgid "Boost your income with the affiliate program"
+msgstr ""
+
+#: includes/ntdz-functions.php:146
+msgid "Both"
+msgstr ""
+
+#: includes/ntdz-triggers.php:62
+msgid "Cart Abandonment / Goal Completion"
+msgstr ""
+
+#: includes/ntdz-template.php:139
+msgid "Choose which message to display when your mobile template appears:"
+msgstr ""
+
+#: includes/ntdz-template.php:51
+msgid "Choose which messages to display when your template appears:"
+msgstr ""
+
+#: includes/ntdz-template.php:106
+msgid "Choose your brand image (recommended size: 640*426px) :"
+msgstr ""
+
+#: includes/ntdz-admin.php:115
+msgid "City*"
+msgstr ""
+
+#: includes/ntdz-admin.php:99
+msgid "Company name*"
+msgstr ""
+
+#: includes/ntdz-triggers.php:92
+msgid "Configuring dynamic variables:"
+msgstr ""
+
+#: includes/ntdz-admin.php:143
+msgid "Confirm password*"
+msgstr ""
+
+#: includes/ntdz-help.php:23 includes/ntdz-dashboard.php:121
+msgid "Contact technical support"
+msgstr ""
+
+#: includes/ntdz-triggers.php:90
+msgid "Conversion script"
+msgstr ""
+
+#: includes/ntdz-fonctionnalites.php:23
+msgid "Copy the lines"
+msgstr ""
+
+#: includes/ntdz-triggers.php:74 includes/ntdz-triggers.php:107
+msgid "Copy the script"
+msgstr ""
+
+#: includes/ntdz-fonctionnalites.php:15
+msgid "Copy these lines into your ads.txt file to improve your revenues"
+msgstr ""
+
+#: includes/ntdz-admin.php:158
+msgid "Create my account"
+msgstr ""
+
+#: includes/ntdz-admin.php:209
+msgid "DASHBOARD"
+msgstr ""
+
+#: includes/ntdz-dashboard.php:9
+msgid "Dashboard"
+msgstr ""
+
+#: includes/ntdz-fonctionnalites.php:40
+msgid "Deactivate monetization on my site"
+msgstr ""
+
+#: includes/ntdz-functions.php:138
+msgid "Desktop"
+msgstr ""
+
+#: includes/ntdz-template.php:22
+msgid "Desktop version"
+msgstr ""
+
+#: includes/ntdz-help.php:33 includes/ntdz-help.php:43
+#: includes/ntdz-dashboard.php:131 includes/ntdz-dashboard.php:141
+msgid "Discover our  tutorials"
+msgstr ""
+
+#: includes/ntdz-admin.php:251
+msgid "Do you like this plugin ?"
+msgstr ""
+
+#: includes/ntdz-template.php:159
+msgid ""
+"Download the logo that will appear on the mobile version (recommended size: "
+"320x150px):"
+msgstr ""
+
+#: includes/ntdz-admin.php:175
+msgid "Email"
+msgstr ""
+
+#: includes/ntdz-admin.php:130
+msgid "Email*"
+msgstr ""
+
+#: includes/ntdz-triggers.php:84
+msgid "Enabling the conversion script"
+msgstr ""
+
+#: includes/ntdz-admin.php:253
+msgid "Feel free to <u>rate it on wordpress.org</u>!"
+msgstr ""
+
+#: includes/ntdz-admin.php:90
+msgid "First name*"
+msgstr ""
+
+#: includes/ntdz-admin.php:291
+msgid ""
+"Follow the evolution of your subscriber base and revenues directly from your "
+msgstr ""
+
+#: includes/ntdz-dashboard.php:113
+msgid "Getting to grips with the tool"
+msgstr ""
+
+#: includes/ntdz-admin.php:211
+msgid "Help, account info"
+msgstr ""
+
+#: includes/ntdz-affiliate.php:19
+msgid "How does it work? It`'s very simple:"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"http://wordpress.org/plugins/Notifadz-by-Adrenalead-Web-Push-Notifications/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://adrenalead.com"
+msgstr ""
+
+#: includes/ntdz-admin.php:72
+msgid "I am an agency"
+msgstr ""
+
+#: includes/ntdz-admin.php:66
+msgid "I am an e-merchant"
+msgstr ""
+
+#: includes/ntdz-admin.php:69
+msgid "I am an editor"
+msgstr ""
+
+#: includes/ntdz-admin.php:154
+msgid ""
+"I have read and accept the <a target=\"_blank\" href=\"javascript:\" "
+"id=\"link-general-conditions\">general conditions of sale</a>"
+msgstr ""
+
+#: includes/ntdz-affiliate.php:22
+msgid "Identify peers to whom you could recommend Notifadz"
+msgstr ""
+
+#: includes/ntdz-triggers.php:49
+msgid "Installation is automatic"
+msgstr ""
+
+#: includes/ntdz-admin.php:217
+msgid "Integration, customization"
+msgstr ""
+
+#: includes/ntdz-triggers.php:27
+msgid ""
+"It seems you don't have Woocommerce activated on your website. We advice you "
+"to install it in order to use our triggers."
+msgstr ""
+
+#: includes/ntdz-triggers.php:37
+msgid "It's time to activate your first automated campaigns "
+msgstr ""
+
+#: includes/ntdz-triggers.php:19
+msgid "It's time to launch your first campaigns"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"L'extension Notifadz d'Adrenalead vous facilite l'activation de la collecte "
+"d'abonnés aux Web Push Notifications directement depuis votre site internet."
+msgstr ""
+
+#: includes/ntdz-affiliate.php:37 includes/ntdz-affiliate.php:41
+msgid "Learn more >>"
+msgstr ""
+
+#: includes/ntdz-admin.php:185
+msgid "Log in"
+msgstr ""
+
+#: includes/ntdz-admin.php:54
+msgid "Log in to embed a Notifadz collection template on your website."
+msgstr ""
+
+#: includes/ntdz-help.php:52 includes/ntdz-dashboard.php:150
+msgid "Log in to your Notifadz account"
+msgstr ""
+
+#: includes/ntdz-fonctionnalites.php:36
+msgid "Logout:"
+msgstr ""
+
+#: includes/ntdz-functions.php:142
+msgid "Mobile"
+msgstr ""
+
+#: includes/ntdz-template.php:133
+msgid "Mobile version"
+msgstr ""
+
+#: includes/ntdz-admin.php:83
+msgid "Mr"
+msgstr ""
+
+#: includes/ntdz-admin.php:86
+msgid "Mrs"
+msgstr ""
+
+#: includes/ntdz-dashboard.php:44
+msgid "My account information"
+msgstr ""
+
+#: includes/ntdz-admin.php:93
+msgid "Name*"
+msgstr ""
+
+#: includes/ntdz-functions.php:129
+msgid "No"
+msgstr ""
+
+#: includes/ntdz-template.php:72 includes/ntdz-template.php:76
+msgid "No email required."
+msgstr ""
+
+#: includes/ntdz-admin.php:293
+msgid "Notifadz account."
+msgstr ""
+
+#: includes/ntdz-functions.php:100
+msgid "Notifadz by Adrenalead"
+msgstr ""
+
+#. Name of the plugin
+msgid "Notifadz by Adrenalead - Web Push Notifications"
+msgstr ""
+
+#: includes/ntdz-admin.php:180
+msgid "Password"
+msgstr ""
+
+#: includes/ntdz-admin.php:147
+msgid ""
+"Password needs at least one upper and one lower character, one special "
+"character, one number, and be at least 10 characters"
+msgstr ""
+
+#: includes/ntdz-admin.php:139
+msgid "Password*"
+msgstr ""
+
+#: includes/ntdz-template.php:163
+msgid "Paste the URL of your logo (recommended size: 320x150px)"
+msgstr ""
+
+#: includes/ntdz-template.php:110
+msgid "Paste your image url (recommended size: 640*426px)"
+msgstr ""
+
+#: includes/ntdz-fonctionnalites.php:38
+msgid ""
+"Pause monetization of my audience. By clicking on the \"Deactivate "
+"monetization on my site\" button, all formats will be deactivated."
+msgstr ""
+
+#: includes/ntdz-admin.php:134
+msgid "Phone number*"
+msgstr ""
+
+#: includes/ntdz-admin.php:79
+msgid "Please select Mr/Mrs*"
+msgstr ""
+
+#: includes/ntdz-admin.php:109
+msgid "Postal code*"
+msgstr ""
+
+#: includes/ntdz-admin.php:30
+msgid "Publisher"
+msgstr ""
+
+#: includes/ntdz-dashboard.php:84
+msgid "Questions / Answers"
+msgstr ""
+
+#: includes/ntdz-admin.php:162
+msgid "Required fields*"
+msgstr ""
+
+#: includes/ntdz-triggers.php:56
+msgid ""
+"Revive the user following its last visit to encourage him to return to the "
+"site"
+msgstr ""
+
+#: includes/ntdz-template.php:186 includes/ntdz-triggers.php:116
+msgid "Save changes"
+msgstr ""
+
+#: includes/ntdz-triggers.php:91
+msgid "Script to be placed on order confirmation pages."
+msgstr ""
+
+#: includes/ntdz-triggers.php:64
+msgid "Script to trigger on add to cart event."
+msgstr ""
+
+#: includes/ntdz-admin.php:62
+msgid "Select your status"
+msgstr ""
+
+#: includes/ntdz-functions.php:117
+msgid "Send push notification on post publication?"
+msgstr ""
+
+#: includes/ntdz-triggers.php:63
+msgid ""
+"Sending a notification to the Internet user who has not completed their "
+"purchase on your site."
+msgstr ""
+
+#: includes/ntdz-admin.php:229
+msgid "SETTINGS"
+msgstr ""
+
+#: includes/ntdz-fonctionnalites.php:5
+msgid "Settings"
+msgstr ""
+
+#: includes/ntdz-affiliate.php:24
+msgid "Share your personalized affiliate link"
+msgstr ""
+
+#: includes/ntdz-template.php:14
+msgid "Subscriber collection template configuration."
+msgstr ""
+
+#: includes/ntdz-functions.php:133
+msgid "Target device?"
+msgstr ""
+
+#: includes/ntdz-admin.php:215
+msgid "TEMPLATE MANAGEMENT"
+msgstr ""
+
+#: includes/ntdz-template.php:7
+msgid "Template management"
+msgstr ""
+
+#: includes/ntdz-template.php:35
+msgid "Template OptinBox"
+msgstr ""
+
+#: includes/ntdz-template.php:42
+msgid "Template Wide"
+msgstr ""
+
+#: includes/ntdz-dashboard.php:20
+msgid ""
+"The Notifadz extension is published by Adrenalead - 1st Advertising Network "
+"for Web Push Notifications. This extension enables website and media "
+"publishers to monetize their web audience thanks to web push notifications, "
+"and to take advantage of the tool to collect and send notifications to their "
+"own audience free of charge."
+msgstr ""
+
+#: includes/ntdz-affiliate.php:26
+msgid ""
+"The referred publisher creates an account via your link, and is validated by "
+"our teams"
+msgstr ""
+
+#: includes/ntdz-admin.php:56
+msgid ""
+"This extension allows website publishers and media outlets to engage and "
+"monetize their web audience through web push notifications. They can animate "
+"and take advantage of the notification collection and sending tool to engage "
+"and retain their community of web push subscribers for free."
+msgstr ""
+
+#: includes/ntdz-template.php:169
+msgid "Use the library"
+msgstr ""
+
+#: includes/ntdz-template.php:116
+msgid "Using the library"
+msgstr ""
+
+#: includes/ntdz-triggers.php:55
+msgid "Visit Revive"
+msgstr ""
+
+#: includes/ntdz-triggers.php:52
+msgid "Welcome Push"
+msgstr ""
+
+#: includes/ntdz-triggers.php:41
+msgid "Welcome Push & Visit Revive"
+msgstr ""
+
+#: includes/ntdz-template.php:12
+msgid "Welcome to Notifadz by Adrenalead!"
+msgstr ""
+
+#: includes/ntdz-dashboard.php:14
+msgid "Welcome to the Notifadz by Adrenalead extension"
+msgstr ""
+
+#: includes/ntdz-dashboard.php:88
+msgid "What actions are initiated by the plugin?"
+msgstr ""
+
+#: includes/ntdz-dashboard.php:97
+msgid "What happens once I've created my account?"
+msgstr ""
+
+#: includes/ntdz-functions.php:125
+msgid "Yes"
+msgstr ""
+
+#: includes/ntdz-admin.php:16
+msgid ""
+"You are now disconnected from the notifadz extension. Because of the update "
+"of our plugin, please login using your email and password. Your template is "
+"still active on your site."
+msgstr ""
+
+#: includes/ntdz-admin.php:18
+msgid ""
+"You are now disconnected from the notifadz extension. The template has been "
+"removed from your site."
+msgstr ""
+
+#: includes/ntdz-template.php:28
+msgid ""
+"You can choose the format that suits you best from two customizable "
+"templates:"
+msgstr ""
+
+#: includes/ntdz-affiliate.php:28
+msgid ""
+"You earn 10% of the monthly revenues generated by your referred publishers!"
+msgstr ""
+
+#: includes/ntdz-admin.php:119
+msgid "Your country*"
+msgstr ""
+
+#: includes/ntdz-functions.php:485
+msgid "Your credentials are not correct"
+msgstr ""
+
+#: includes/ntdz-triggers.php:17
+msgid "Your scripts are integrated !"
+msgstr ""
+
+#: includes/ntdz-dashboard.php:16
+msgid "Your Template is currently attracting new subscribers to your site!"
+msgstr ""

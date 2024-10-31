@@ -1,0 +1,14 @@
+<script type="text/javascript">
+    window._nAdzqTriggers= window._nAdzqTriggers || [];
+    window.runNadzTriggers = function() {
+        window._nAdzqTriggers.push(["setIds", "{scriptId}"]);
+        var e="https://notifpush.com/scripts/";
+        var t=document.createElement("script");
+        t.type="text/javascript";
+        t.defer=true;t.async=true;
+        t.src=e+"full-script-trigger.min.js";
+        var s=document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(t,s);
+    };
+    runNadzTriggers();
+</script>
